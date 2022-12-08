@@ -1,14 +1,34 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.073c9b0a.css",
-    "main.js": "/portfolio/static/js/main.99eb4ba6.js",
-    "static/media/logo.svg": "/portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/portfolio/static/css/main.0cc536db.css",
+    "main.js": "/portfolio/static/js/main.6dd54548.js",
+    "static/media/original-webpage.png": "/portfolio/static/media/original-webpage.f09663bd60d6957f4109.png",
+    "static/media/b-heatmap.png": "/portfolio/static/media/b-heatmap.6701c06c4b2ef0cbd60c.png",
+    "static/media/eye-tracking-thumbnail.png": "/portfolio/static/media/eye-tracking-thumbnail.6701c06c4b2ef0cbd60c.png",
+    "static/media/b-replay.png": "/portfolio/static/media/b-replay.6ee5ada1f52182d7a6c2.png",
+    "static/media/redesigned-webpage.png": "/portfolio/static/media/redesigned-webpage.1605d6871347f06f4743.png",
+    "static/media/responsive-redesign-thumbnail.png": "/portfolio/static/media/responsive-redesign-thumbnail.1605d6871347f06f4743.png",
+    "static/media/dlna-poster.svg": "/portfolio/static/media/dlna-poster.836d668a775de9bc0d9d813c711e3d0a.svg",
+    "static/media/a-heatmap.png": "/portfolio/static/media/a-heatmap.1e1ec64ea93261c110c5.png",
+    "static/media/a-replay.png": "/portfolio/static/media/a-replay.3ef1293383319c9e31d1.png",
+    "static/media/development-thumbnail.png": "/portfolio/static/media/development-thumbnail.421bb41d8dd32d6923f4.png",
+    "static/media/b-design.jpg": "/portfolio/static/media/b-design.0a69a168fe75860a363c.jpg",
+    "static/media/a-design.jpg": "/portfolio/static/media/a-design.8f227c3a42cca2ce8cdf.jpg",
+    "static/media/style-guide.png": "/portfolio/static/media/style-guide.f6e33a8ac1897a16a9e7.png",
+    "static/media/cnn-diagram.png": "/portfolio/static/media/cnn-diagram.291352bd7caef880b941.png",
+    "static/media/peanut.svg": "/portfolio/static/media/peanut.652269cb0ad3db1af1f9871bc046fe13.svg",
+    "static/media/thinker.svg": "/portfolio/static/media/thinker.26376c567f7dfaf24e6ff888421f1fbb.svg",
+    "static/media/unlit-lightbulb.svg": "/portfolio/static/media/unlit-lightbulb.a656a231b3a8fbe0cbe0970a517e5e17.svg",
+    "static/media/lightbulb.svg": "/portfolio/static/media/lightbulb.1cdc7b620feebf7b3be710132d5b8d73.svg",
+    "static/media/exit.svg": "/portfolio/static/media/exit.674b10735f7c59f6b0909416b6b59644.svg",
+    "static/media/sleepy.svg": "/portfolio/static/media/sleepy.2ae4e601a4cfd4ea67b20d1a385c654e.svg",
+    "static/media/smile.svg": "/portfolio/static/media/smile.e0f950b42480a1a3e3659b5d7f9d0213.svg",
     "index.html": "/portfolio/index.html",
-    "main.073c9b0a.css.map": "/portfolio/static/css/main.073c9b0a.css.map",
-    "main.99eb4ba6.js.map": "/portfolio/static/js/main.99eb4ba6.js.map"
+    "main.0cc536db.css.map": "/portfolio/static/css/main.0cc536db.css.map",
+    "main.6dd54548.js.map": "/portfolio/static/js/main.6dd54548.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.99eb4ba6.js"
+    "static/css/main.0cc536db.css",
+    "static/js/main.6dd54548.js"
   ]
 }
