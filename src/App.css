@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  background-color: #c7b299;
+  padding: 50px;
 }
 
 .App-logo {
@@ -35,4 +37,213 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.tile-col {
+  padding: 0;
+  border: solid black;
+  border-width: 2px;
+}
+
+.clickable {
+  cursor: pointer;
+}
+
+.responsive-redesign:hover {
+  background-color: #b8df88;
+}
+
+.eye-tracking:hover {
+  background-color: #d58bdd;
+}
+
+.interactive-design:hover {
+  background-color: #ff99d7;
+}
+
+.ufc-stats:hover {
+  background-color: #ffd372;
+}
+
+.logo {
+  object-fit: contain;
+  width: 100%;
+  height: 325px;
+}
+
+.body {
+  background-color: #f9f9f9;
+  border: solid black;
+  border-width: 2px;
+  /* margin-top: 65px; */
+  filter: drop-shadow(0 5px 0.1rem #b6a188);
+}
+
+.thumbnail {
+  object-fit: cover;
+  width: 200px;
+  height: 200px;
+  border: solid black;
+  border-width: 2px;
+}
+
+.tile-body {
+  padding: 50px;
+}
+
+.tile-preview-text {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  justify-content: flex-end;
+}
+
+.tile-preview-title {
+  font-size: 3rem;
+}
+
+.tile-preview-description {
+  font-size: 1rem;
+}
+
+.header-col {
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  justify-content: flex-end;
+}
+
+.header-body {
+  padding: 50px;
+}
+
+.header-body-text {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  justify-content: flex-end;
+}
+
+.greeting {
+  font-size: 5rem;
+}
+
+.custom-nav-bar {
+  background-color: #f9f9f9;
+  border-bottom: solid black;
+  border-width: 4px;
+}
+
+.custom-modal-header {
+  background-color: #f9f9f9;
+}
+
+.custom-modal-body {
+  background-color: #f9f9f9;
+  border-top: solid black;
+  border-width: 4px;
+}
+
+.modal-title {
+  font-size: 5rem;
+}
+
+.modal-subtitle {
+  font-size: 3rem;
+}
+
+.custom-btn {
+  background-color: #f9f9f9;
+  border: solid black;
+  font-weight: 600;
+  border-width: 4px;
+  border-radius: 0;
+  color: black;
+}
+
+.custom-btn:hover {
+  background-color: #cf4646;
+  border: solid black;
+  font-weight: 600;
+  border-width: 4px;
+  border-radius: 0;
+  color: black;
+}
+
+.custom-btn:focus {
+  background-color: #cf4646;
+  border: solid black;
+  font-weight: 600;
+  border-width: 4px;
+  border-radius: 0;
+  color: black;
+}
+
+.modal-text {
+  margin-left: 20px;
+  font-size: 1.25rem;
+}
+
+.exit-doodle {
+  height: 140px;
+  position: absolute;
+  right: 50px;
+}
+
+.btn-close {
+  margin: 0;
+}
+
+.modal-body-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 50vw;
+  filter: drop-shadow(0 5px 0.1rem #e8e8e8);
+}
+
+.double-images {
+  display: flex;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;  
+}
+
+.double-images > img {
+  max-width: 40vw;
+  margin: 10px;
+  filter: drop-shadow(0 5px 0.1rem #e8e8e8);
+}
+
+.responsive-redesign-title {
+  text-decoration: underline;
+  text-decoration-color: #b8df88;
+}
+
+.eye-tracking-title {
+  text-decoration: underline;
+  text-decoration-color: #d58bdd;
+}
+
+.interactive-design-title {
+  text-decoration: underline;
+  text-decoration-color: #ff99d7;
+}
+
+.dlna-title {
+  text-decoration: underline;
+  text-decoration-color: #ffd372;
+}
+
+.lightbulb-container {
+  display: block;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  width: fit-content;
+}
+
+.brand-logo {
+  margin-right: 10px;
 }
