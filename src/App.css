@@ -43,6 +43,7 @@
   padding: 0;
   border: solid black;
   border-width: 2px;
+  user-select: none;
 }
 
 .clickable {
@@ -85,6 +86,16 @@
   height: 200px;
   border: solid black;
   border-width: 2px;
+}
+
+.thumbnail-2-wrapper {
+  text-align: left;
+}
+
+.thumbnail-2 {
+  object-fit: contain;
+  width: auto;
+  height: 200px;
 }
 
 .tile-body {
@@ -181,8 +192,9 @@
 }
 
 .modal-text {
-  margin-left: 20px;
+  margin-left: 30px;
   font-size: 1.25rem;
+  text-align: justify;
 }
 
 .exit-doodle {
@@ -216,26 +228,6 @@
   filter: drop-shadow(0 5px 0.1rem #e8e8e8);
 }
 
-.responsive-redesign-title {
-  text-decoration: underline;
-  text-decoration-color: #b8df88;
-}
-
-.eye-tracking-title {
-  text-decoration: underline;
-  text-decoration-color: #d58bdd;
-}
-
-.interactive-design-title {
-  text-decoration: underline;
-  text-decoration-color: #ff99d7;
-}
-
-.dlna-title {
-  text-decoration: underline;
-  text-decoration-color: #ffd372;
-}
-
 .lightbulb-container {
   display: block;
   margin-top: 20px;
@@ -246,4 +238,46 @@
 
 .brand-logo {
   margin-right: 10px;
+}
+
+.social-logo {
+  object-fit: cover;
+  width: 75px;
+  height: 75px;
+}
+
+.social-wrapper-1 {
+  height: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-bottom: solid black;
+  border-width: 2px;
+}
+
+.social-wrapper-1:hover {
+  background-color: #abc4ed;
+}
+
+.resume:hover {
+  background-color: #ea875d;
+}
+
+.social-wrapper-2 {
+  height: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-top: solid black;
+  border-width: 2px;
+}
+
+.social-wrapper-2:hover {
+  background-color: #c186ed;
+}
+
+.social-col {
+  display: flex;
+  flex-direction: column;
+  align-content: space-around;
 }
